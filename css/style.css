@@ -1,0 +1,316 @@
+/* Author: arJun
+Date:16/02/2023 */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Open-Sans, Sans-serif;
+}
+.row-1 {
+    min-height: 100vh;
+    background-image: url("../image/background/agency-slider-04.jpg");
+    background-size: cover;
+}
+
+.head-container {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+.row-1-contant {
+    min-height: 50vh;
+    margin-top: 150px;
+    background-color: rgb(239, 95, 56);
+}
+.a-tag {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 12px;
+    margin-top: 0;
+    font-family: Open-Sans, Sans-serif;
+    margin-left: 30px;
+}
+.row-1-contant-main {
+    border: 3px solid #fff;
+    height: 45vh;
+    color: #fff;
+    padding: 50px;
+}
+.fw {
+    font-size: small;
+}
+.row-1-contant-main h1 {
+    font-weight: bolder;
+}
+.row-2-1 {
+    min-height: 80vh;
+    margin: 0 20px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.8);
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+.img-1 {
+    width: 80%;
+}
+.row-2-img {
+    width: 100%;
+}
+.fw-l {
+    font-size: 20px;
+}
+.row-2-items {
+    margin-top: 40px;
+    min-height: 30vh;
+    margin-bottom: 40px;
+}
+.sevice-icon-1 {
+    width: 120px;
+}
+.fs-small {
+    font-size: 12px;
+}
+.row-3 {
+    min-height: 60vh;
+    background-color: #f0dcdc;
+}
+.row-3-2 {
+    background-image: url("../image/background/restaurant-about-bg.jpg");
+    background-size: cover;
+    min-height: 60vh;
+}
+.row-4 {
+    background-image: url("../image/background/restaurant-menu-bg.jpg");
+    background-size: cover;
+    min-height: 100vh;
+}
+.row-4-1 {
+    min-height: 15vh;
+    margin-top: 40px;
+}
+.menu-icon {
+    width: 80px;
+}
+.menu-dis {
+    font-weight: bolder;
+    text-align: center;
+    text-transform: uppercase;
+    color: #5f2929;
+    margin: 20px 0 40px 0;
+}
+.row-4-3 {
+    min-height: 60vh;
+    margin: 40px 0;
+    font-size: small;
+}
+.row-5 {
+    min-height: 100vh;
+}
+.heading {
+    font-weight: bolder;
+    text-align: center;
+    text-transform: uppercase;
+    color: #5f2929;
+    margin: 20px 0 20px 0;
+}
+.row-5 p {
+    font-size: small;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.gallery {
+    min-height: 80vh;
+    margin-bottom: 40px;
+}
+.gallery-img-1 {
+    min-height: 80vh;
+    background-image: url(../image/agency-work-13.jpg);
+    background-size: cover;
+}
+.gallery-img-2 {
+    min-height: 40vh;
+    background-image: url(../image/agency-work-08.jpg);
+    background-size: cover;
+}
+.gallery-img-3 {
+    min-height: 40vh;
+    background-image: url(../image/agency-work-02.jpg);
+    background-size: cover;
+}
+.gallery-img-4 {
+    min-height: 80vh;
+    background-image: url(../image/agency-work-14.jpg);
+    background-size: cover;
+}
+.gallery-img-5 {
+    min-height: 40vh;
+    background-image: url(../image/agency-work-06.jpg);
+    background-size: cover;
+}
+.gallery-img-6 {
+    min-height: 40vh;
+    background-image: url(../image/agency-work-08.jpg);
+    background-size: cover;
+}
+.row-6-2 {
+    min-height: 50vh;
+    background-color: #f0dcdc;
+    width: 75%;
+}
+.chef-dis {
+    margin: 60px 20px 60px 60px;
+}
+.chef-dis h5 {
+    margin-bottom: 0;
+    font-weight: bolder;
+}
+.chef-subdis {
+    margin-top: 0;
+    font-size: smaller;
+    color: #5f2929;
+}
+.chef-img {
+    background-image: url(../image/restaurant-chef-01.jpg);
+    background-size: cover;
+    min-height: 60vh;
+}
+.row-7 {
+    background-image: url(../image/background/hero-bg9.jpg);
+    background-size: cover;
+    min-height: 70vh;
+    margin: 40px 0;
+}
+.bg {
+    min-height: 70vh;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.row-7 h1 {
+    color: #fff;
+    text-align: center;
+}
+.row-8-2 {
+    min-height: 50vh;
+    margin: 40px 0;
+}
+.blog-img {
+    width: 100%;
+    height: 40vh;
+    margin: 30px 0;
+}
+.row-9 {
+    min-height: 70vh;
+    background-image: url(../image/background/fitness-about-bg.jpg);
+    background-size: cover;
+}
+.row-9-1 {
+    background-color: #f0dcdc;
+    min-height: 70vh;
+    width: 35%;
+    padding: 70px;
+    margin-left: 10%;
+    color: #5f2929;
+}
+.sm {
+    font-size: smaller;
+}
+.row-10 {
+    min-height: 40vh;
+    margin: 50px 0 20px 0;
+}
+.contact-logo {
+    margin-top: 40px;
+    width: 40px;
+}
+.row-11 {
+    min-height: 100vh;
+    background-image: url(../image/background/hero-bg3.jpg);
+    background-size: cover;
+}
+.row-11-bg {
+    min-height: 100vh;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.row-11-2 {
+    width: 40%;
+    min-height: 50vh;
+}
+.form-input {
+    width: 90%;
+    margin: 10px 30px 0 30px;
+    height: 40px;
+}
+.h {
+    min-height: 150px;
+}
+.form-para {
+    color: #f00;
+    font-size: smaller;
+    font-weight: bolder;
+    margin: 0 30px 0;
+    background-color: aliceblue;
+    display: inline;
+}
+@media screen and (max-width: 576px) {
+    .row-1 {
+        min-height: 80vh;
+    }
+    .row-1-contant {
+        min-height: 50vh;
+        margin-top: 50px;
+    }
+    .dis {
+        display: none;
+    }
+    .img-1 {
+        width: 100%;
+    }
+    .t-end {
+        text-align: end;
+    }
+    .row-6-2 {
+        min-height: 70vh;
+        background-color: #f0dcdc;
+        width: 100%;
+    }
+    .chef-dis {
+        margin: 10px;
+    }
+    .row-7 h1 {
+        padding-left: 30px;
+    }
+    .t-c {
+        text-align: center;
+    }
+    .row-9 {
+        min-height: 50vh;
+
+        background-image: none;
+        background-color: #f0dcdc;
+    }
+    .row-9-1 {
+        min-height: 50vh;
+        width: 100%;
+        color: #5f2929;
+        margin: 0;
+        padding: 20px;
+    }
+    .p-mob {
+        padding: 0 20px;
+    }
+    .row-11-2 {
+        width: 90%;
+        min-height: 50vh;
+        margin: 0;
+    }
+    .form-input {
+        width: 90%;
+        margin: 10px 10px;
+        height: 40px;
+    }
+    .row-4 {
+        background-image: linear-gradient(
+                rgba(223, 216, 216, 0.8),
+                rgba(237, 230, 230, 0.8)
+            ),
+            url("../image/background/restaurant-menu-bg.jpg");
+        background-size: cover;
+        min-height: 100vh;
+    }
+}
